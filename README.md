@@ -3,7 +3,7 @@
 # Answer
 
 resources :auctions do
- resources :bids do
-  match :retract, via: [:get, :post], on: :member
- end
+ &nbsp;&nbsp;&nbsp;resources :bids do
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;match :retract, via: [:get, :post], on: :member
+ &nbsp;&nbsp;&nbsp;end
 end
