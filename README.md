@@ -2,7 +2,7 @@
 
 # setup locally
 
-got to root folder <br/>
+go to root folder <br/>
 run bundle
 
 **test via rspec** <br/>
