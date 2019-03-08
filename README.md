@@ -5,7 +5,7 @@
 * go to root folder
 * run bundle
 
-**test via rspec**
+**test via rspec**<br/>
 run rspec
 
 **test via console**
