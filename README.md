@@ -1,18 +1,18 @@
 # velocity-media-interviews question 3
 
-* to run locally
+**To run locally**
 
-1. git clone -b question-3 --single-branch https://github.com/Vutivi/velocity-media-interviews.git
-2. cd velocity-media-interviews
-3. bundle
+* git clone -b question-3 --single-branch https://github.com/Vutivi/velocity-media-interviews.git
+* cd velocity-media-interviews
+* bundle
 
-* test with rspec
+**Test with rspec**
 
-1. run rspec from the project directory
+run rspec from the project directory
 
 
-* test on console
+**Test on console**
 
-1. run irb from the project directory
-2. require 'lib/fizz_buzz'
-3. fizz_buzz(1, 100)
+run irb from the project directory
+require 'lib/fizz_buzz'
+fizz_buzz(1, 100)
