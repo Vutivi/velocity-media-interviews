@@ -5,10 +5,10 @@
 got to root folder <br/>
 run bundle
 
-* test via rspec<br/>
+**test via rspec** <br/>
 run rspec
 
-* test via console
+**test via console** <br/>
 
 run irb<br/>
 require all classes<br/>
