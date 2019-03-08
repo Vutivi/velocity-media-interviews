@@ -1,14 +1,14 @@
 # velocity-media-interviews question 1
 
 # setup locally
+* git clone -b question-1 --single-branch https://github.com/Vutivi/velocity-media-interviews.git
+* go to root folder
+* run bundle
 
-go to root folder <br/>
-run bundle
-
-**test via rspec** <br/>
+**test via rspec**
 run rspec
 
-**test via console** <br/>
+**test via console**
 
 run irb<br/>
 require all classes<br/>
